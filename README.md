@@ -1,7 +1,7 @@
 #### Prepare the Source Codes
 
 <pre>
-git clone https://github.com/ndb7967/community
+git clone https://github.com/choiyeon/community
 </pre>
 
 #### Prepare the Configuration File
